@@ -1,6 +1,7 @@
 # TodoList API
 
 API REST para gerenciamento de tarefas (TodoList) desenvolvida com Spring Boot.
+Desafio retirado de https://github.com/simplify-tec/desafio-junior-backend-simplify
 
 ## Tecnologias Utilizadas
 
